@@ -1,2 +1,2 @@
 # diyovka
-diyovka
+diyovka.github.com
